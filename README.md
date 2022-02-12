@@ -15,6 +15,10 @@ Eu tenho objetivo de me especializar ainda mais em tecnologia web e mobile traze
 
 ### Video rodando
 
+<!-- YOUTUBE:START -->
+(https://youtu.be/13ekXT7K6HI)
+<!-- YOUTUBE:END -->
+
 [![Watch the video](https://youtu.be/13ekXT7K6HI)
 
 ### Imagem do Projetos
@@ -34,6 +38,7 @@ Eu tenho objetivo de me especializar ainda mais em tecnologia web e mobile traze
 <br>
 
 <strong>abaixo 800px</strong>
+<br>
 <img src="https://github.com/albsrocha/LandingPage/blob/main/img/Screenshot%202022-02-12%2017.45.58.png" width=800 alt="ALberto Rocha">
 
 
