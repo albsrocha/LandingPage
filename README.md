@@ -15,7 +15,8 @@ Eu tenho objetivo de me especializar ainda mais em tecnologia web e mobile traze
 
 ### Video no youtube com projeto
 
-<link src="https://youtu.be/13ekXT7K6HI">Youtube</link>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/13ekXT7K6HI)
+
 
 
 ### Imagem do Projetos
