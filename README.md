@@ -13,11 +13,20 @@ Eu tenho objetivo de me especializar ainda mais em tecnologia web e mobile traze
 - CSS
 - VSCODE
 
-###Imagem do Projetos
+### Video rodando
+
+https://youtu.be/13ekXT7K6HI
+
+### Imagem do Projetos
 
 <strong>Acima de 1200px</strong>
+<img src="https://github.com/albsrocha/LandingPage/blob/main/img/Screenshot%202022-02-12%2017.45.21.png" width=1400 alt="ALberto Rocha">
+<img src="https://github.com/albsrocha/LandingPage/blob/main/img/Screenshot%202022-02-12%2017.45.39.png" width=1400 alt="ALberto Rocha">
 <strong>até 1200px</strong>
+<img src="https://github.com/albsrocha/LandingPage/blob/main/img/Screenshot%202022-02-12%2017.46.12.png alt="ALberto Rocha">
+<img src="https://github.com/albsrocha/LandingPage/blob/main/img/Screenshot%202022-02-12%2017.46.16.png" width=1200 alt="ALberto Rocha">
 <strong>abaixo 800px</strong>
+<img src="https://github.com/albsrocha/LandingPage/blob/main/img/Screenshot%202022-02-12%2017.45.58.png" width=800 alt="ALberto Rocha">
 
 
 ### Sobre mim
