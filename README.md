@@ -15,9 +15,10 @@ Eu tenho objetivo de me especializar ainda mais em tecnologia web e mobile traze
 
 ### Video rodando
 
-<!-- YOUTUBE:START -->
-(https://youtu.be/13ekXT7K6HI)
-<!-- YOUTUBE:END -->
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/13ekXT7K6HI" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 [![Watch the video](https://youtu.be/13ekXT7K6HI)
 
